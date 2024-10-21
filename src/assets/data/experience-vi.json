@@ -1,30 +1,18 @@
 [
   {
-    "leading": "02/2023 - 10/2023",
-    "title": "Web Developer",
-    "jobTitles": "Part-time Dev",
-    "at": "Viethas",
-    "description": "Đây là công việc bán thời gian lúc tôi năm 3 và nó kết thúc khi tôi chuẩn bị đi thực tập. Tại đây tôi phát triển website bằng ReactJs, ExpressJs và  NestJs.",
-    "technologies": [
-      "ReactJs",
-      "ExpressJs",
-      "NestJs",
-      "Typescript",
-      "MongoDB",
-      "Git",
-      "Trello"
-    ]
+    "leading": "11/2023 - 04/2024",
+    "title": "Content Creator",
+    "jobTitles": "Nhân viên",
+    "at": "Viện Nghiên cứu Phát triển Bảo tồn Văn hóa Nghệ thuật Đông Nam Á - IRSAC",
+    "description": "Tham gia xây dựng kế hoạch phát triển fanpage, sản xuất nội dung truyền thông trên Facebook IRSAC, xây dựng Hội hữu nghị Việt Nam - ASEAN+",
+    "technologies": []
   },
   {
-    "leading": "09/2023 - 03/2024",
-    "title": "Thực tập sinh Flutter Developer",
-    "jobTitles": "Thực tập sinh",
-    "at": "Golden Owl Solution",
-    "description": "Trong thời gian thực tập phát triển ứng dụng di động đa nền tảng bằng Flutter, tôi đã học và thực hành kỹ năng làm việc nhóm, quản lý dự án trong môi trường doanh nghiệp, Clean Code Principles, Git-workflow, estimate time, quản lý công việc với Trello, viết document cho dự án, và phát triển ứng dụng bằng Flutter.",
-    "technologies": [
-      "Dart",
-      "Flutter",
-      "Firebase"
-    ]
+    "leading": "01/2024 - 09/2024",
+    "title": "Content Creator",
+    "jobTitles": "Nhân viên",
+    "at": "Phòng khám Đa Khoa Quốc Tế Grand World",
+    "description": "Xây dựng sáng tạo nội dung cho 2 thương hiệu bác sĩ trên kênh Facebook, Instagram, Tiktok; Quản lý và biên tập nội dung trên các kênh đảm bảo tính nhất quán về thương hiệu và tăng độ nhận diện của sản phẩm; Phối hợp cùng team Design, Editor, Ads xây dựng sản phẩm, chạy quảng cáo; Chăm sóc Fanpage, Tiktok; Hỗ trợ quay phim chụp ảnh, livestream; Đánh giá xu hướng thị trường thẩm mỹ",
+    "technologies": []
   }
 ]

@@ -6,9 +6,9 @@ import projectsDataEn from '~/assets/data/projects-en.json';
 import projectsDataVi from '~/assets/data/projects-vi.json';
 import { Locale } from '~/constants/enum';
 import { RootState } from '~/app/store';
-import future from '~/assets/images/future.png';
-import flutter from '~/assets/images/flutter-intern.png';
-import greeny from '~/assets/images/greeny.png';
+import irsac from '~/assets/images/image_0.png';
+import cong_khanh from '~/assets/images/image_1.png';
+import phong_son from '~/assets/images/image_2.png';
 
 import { ProjectItemWidget } from './widget';
 
@@ -18,12 +18,14 @@ const Projects: FC = (): JSX.Element => {
   const data = currentLocale === Locale.en ? projectsDataEn : projectsDataVi;
   const leadingCase = (leading: string) => {
     switch (leading) {
-      case 'future':
-        return future;
-      case 'greeny':
-        return greeny;
+      case 'irsac':
+        return irsac;
+      case 'cong_khanh':
+        return cong_khanh;
+      case 'phong_son':
+        return phong_son;
       default:
-        return flutter;
+        return phong_son;
     }
   };
 

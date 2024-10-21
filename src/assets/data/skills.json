@@ -1,57 +1,32 @@
 [
   {
-    "src": "https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg",
-    "alt": "dart",
-    "href": "https://dart.dev"
+    "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg",
+    "alt": "canva",
+    "href": "https://www.canva.com/"
   },
   {
-    "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
-    "alt": "javascript",
-    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    "src": "src/assets/images/capcut.png",
+    "alt": "capcut",
+    "href": "https://www.capcut.com/vi-vn/"
   },
   {
-    "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    "alt": "typescript",
-    "href": "https://www.typescriptlang.org/"
+    "src": "src/assets/svg/Docs.svg",
+    "alt": "docs",
+    "href": "https://www.microsoft.com/vi-vn/microsoft-365/microsoft-office"
   },
   {
-    "src": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
-    "alt": "nodejs",
-    "href": "https://nodejs.org/"
+    "src": "src/assets/svg/Forms.svg",
+    "alt": "docs",
+    "href": "https://www.microsoft.com/vi-vn/microsoft-365/microsoft-office"
   },
   {
-    "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg",
-    "alt": "nestjs",
-    "href": "https://nestjs.com/"
+    "src": "src/assets/svg/Sheets.svg",
+    "alt": "docs",
+    "href": "https://www.microsoft.com/vi-vn/microsoft-365/microsoft-office"
   },
   {
-    "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
-    "alt": "react",
-    "href": "https://reactjs.org/"
-  },
-  {
-    "src": "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
-    "alt": "tailwind",
-    "href": "https://tailwindcss.com/"
-  },
-  {
-    "src": "https://avatars.githubusercontent.com/u/14101776?s=200&v=4",
-    "alt": "flutter",
-    "href": "https://flutter.dev/"
-  },
-  {
-    "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-    "alt": "mongodb",
-    "href": "https://www.mongodb.com/"
-  },
-  {
-    "src": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png",
-    "alt": "firebase",
-    "href": "https://firebase.google.com/"
-  },
-  {
-    "src": "https://avatars.githubusercontent.com/u/17219288?s=200&v=4",
-    "alt": "prisma",
-    "href": "https://www.prisma.io/"
+    "src": "src/assets/svg/Slides.svg",
+    "alt": "docs",
+    "href": "https://www.microsoft.com/vi-vn/microsoft-365/microsoft-office"
   }
 ]

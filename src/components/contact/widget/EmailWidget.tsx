@@ -8,7 +8,7 @@ import { copy } from '~/utils/text.util';
 import { TooltipWidget } from '~/widgets';
 
 const EmailWidget: FC = (): JSX.Element => {
-  const [email] = useState<string>('hoangan072024@gmail.com');
+  const [email] = useState<string>('kieuanhhoangtruong@gmail.com');
   const { t } = useTranslation();
 
   const isDarkTheme = useDarkThemeDetector();

@@ -7,7 +7,7 @@ import { copy, formatVietnamPhoneNumber } from '~/utils/text.util';
 import { TooltipWidget } from '~/widgets';
 
 const PhoneWidget: FC = (): JSX.Element => {
-  const [phone] = useState<string>('0779672566');
+  const [phone] = useState<string>('0938624856');
   const { t } = useTranslation();
 
   const isDarkTheme = useDarkThemeDetector();

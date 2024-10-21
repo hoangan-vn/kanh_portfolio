@@ -43,8 +43,8 @@ const MapWidget: React.FC<MapWidgetProps> = ({ placeholder }) => {
       height: '55px'
     });
 
-    const name = 'App Title';
-    const address = 'App Address';
+    const name = 'My address';
+    const address = 'No. 70, Street No. 2, Ward 3, Go Vap District, Ho Chi Minh City';
     const pointAttributes = {
       Name: name,
       Address: address

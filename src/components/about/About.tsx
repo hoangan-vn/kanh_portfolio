@@ -27,8 +27,8 @@ const About: FC = (): JSX.Element => {
         <p className='dark:text-white'>
           {t('about-content-1')}
           <span className='px-2 py-1 text-blue-500 rounded-lg bg-blue-200 mx-1'>{t('about-position-1')}</span>
-          {t('common-comma')}
-          <span className='px-2 py-1 text-blue-500 rounded-lg bg-blue-200 mx-1'>{t('about-position-2')}</span>
+          {/* {t('common-comma')} */}
+          {/* <span className='px-2 py-1 text-blue-500 rounded-lg bg-blue-200 mx-1'>{t('about-position-2')}</span> */}
           {t('about-content-2')}
         </p>
         <p className='dark:text-white'>{t('about-content-3')}</p>

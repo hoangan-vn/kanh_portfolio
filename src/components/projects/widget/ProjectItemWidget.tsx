@@ -47,7 +47,11 @@ const ProjectItemWidget: FC<ProjectItemWidgetProps> = ({
             </div>
           }
         >
-          <img src={leading} className='w-[150px] h-auto shadow cursor-pointer dark:shadow-white' onClick={handleClick} />
+          <img
+            src={leading}
+            className='w-[350px] h-auto shadow cursor-pointer dark:shadow-white'
+            onClick={handleClick}
+          />
         </Suspense>
       </motion.div>
 
@@ -60,8 +64,8 @@ const ProjectItemWidget: FC<ProjectItemWidgetProps> = ({
         onClick={onClick}
       >
         <h2 className='text-2xl font-bold dark:text-white'>{title}</h2>
-        <h3 className='text-xl dark:text-white'>{time}</h3>
-        <p className='font-light text-sm dark:text-white'>{link}</p>
+        {/* <h3 className='text-xl dark:text-white'>{time}</h3> */}
+        <p className='font-light text-sm dark:text-white select-text'>{link}</p>
         <p className='font-light text-gray-400 text-justify text-sm italic dark:text-gray-200'>{description}</p>
         <div className='flex flex-wrap items-center gap-4'>
           {technologies?.map((item, index) => <CardTechnologyWidget key={index} title={item} />)}

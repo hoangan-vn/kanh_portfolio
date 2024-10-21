@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { FC } from 'react';
 import { useTranslation } from 'react-i18next';
 
-import { GithubProfileWidget, ResumeWidget, EmailWidget, PhoneWidget, LinkedInWidget} from './widget';
+import { ResumeWidget, EmailWidget, PhoneWidget } from './widget';
 
 const Contact: FC = (): JSX.Element => {
   const { t } = useTranslation();
@@ -23,11 +23,9 @@ const Contact: FC = (): JSX.Element => {
           transition={{ duration: 0.5 }}
           className='flex-1 flex flex-col justify-center items-start gap-5'
         >
-          <GithubProfileWidget />
           <ResumeWidget />
           <EmailWidget />
           <PhoneWidget />
-          <LinkedInWidget />
         </motion.div>
       </div>
     </section>

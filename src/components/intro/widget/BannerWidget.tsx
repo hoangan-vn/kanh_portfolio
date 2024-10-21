@@ -6,11 +6,11 @@ import { PauseIcon, PlayIcon } from '~/components/icons';
 import toast from '~/core/toastify';
 import TooltipWidget from '~/widgets/TooltipWidget';
 
-const audioFiles = ['/audio/afro-beat-instrumental.mp3', '/audio/flying-high.mp3'];
+const audioFiles = ['/audio/espresso.mp3'];
 
 const BannerWidget: FC = (): JSX.Element => {
   const [isPlaying, setIsPlaying] = useState(false);
-  const [audio] = useState(new Audio(audioFiles[Math.floor(Math.random() * 2)]));
+  const [audio] = useState(new Audio(audioFiles[0]));
   const [userInteracted, setUserInteracted] = useState(false);
   const { t } = useTranslation();
 

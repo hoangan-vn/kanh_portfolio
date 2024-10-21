@@ -16,7 +16,6 @@ const Intro: FC = (): JSX.Element => {
             {t('intro-welcome')}
           </span>
           <TextAnimationWidget text={t('intro')} className='h-3 flex items-center text-4xl max-w-[600px] break-words' />
-          <span className='animate-pulse dark:text-white'>{t('intro-position')}</span>
         </div>
         <div className='animate-jump-in animate-once flex justify-center items-center'>
           <img src={intro} alt='Intro' className='w-[500px] animate-move-up-down' />

@@ -1,32 +1,18 @@
 [
   {
-    "leading": "Feb 2023 - Oct 2023",
-    "title": "Web Developer",
-    "jobTitles": "Part-time Dev",
-    "at": "Viethas",
-    "description": "This was a part-time job during my third year, and it ended when I was about to start my internship. Here, I developed websites using React.js, Express.js, and Nest.js.",
-    "technologies": [
-      "ReactJs",
-      "ExpressJs",
-      "NestJs",
-      "Typescript",
-      "MongoDB",
-      "Git",
-      "Trello"
-    ]
+    "leading": "11/2023 - 04/2024",
+    "title": "Content Creator",
+    "jobTitles": "Staff",
+    "at": "Institute of Research and Development for the Preservation of Southeast Asian Cultural Arts - IRSAC",
+    "description": "Participated in developing plans for fanpage growth, creating media content for IRSAC's Facebook, and building the Vietnam - ASEAN+ Friendship Association.",
+    "technologies": []
   },
   {
-    "leading": "Sep 2023 - Mar 2024",
-    "title": "Flutter Developer",
-    "jobTitles": "Intern",
-    "at": "Golden Owl Solution",
-    "description": "During my internship in cross-platform mobile app development using Flutter, I learned and practiced teamwork, enterprise project management, Clean Code Principles, Git-workflow, time estimation, Trello task management, project documentation, and Flutter app development.",
-    "technologies": [
-      "Dart",
-      "Flutter",
-      "Firebase",
-      "Git",
-      "Trello"
-    ]
+    "leading": "01/2024 - 09/2024",
+    "title": "Content Creator",
+    "jobTitles": "Staff",
+    "at": "Grand World International General Clinic",
+    "description": "Developed creative content for two doctor brands on Facebook, Instagram, and TikTok; Managed and edited content on multiple channels to ensure brand consistency and increase product awareness; Collaborated with Design, Editor, and Ads teams to build products and run advertisements; Managed Fanpage and TikTok; Assisted with filming, photography, and live streaming; Analyzed trends in the aesthetic market.",
+    "technologies": []
   }
 ]

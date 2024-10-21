@@ -7,7 +7,7 @@ import TooltipWidget from '~/widgets/TooltipWidget';
 
 const ResumeWidget: FC = (): JSX.Element => {
   const pdfUrl = '/file/resume.pdf';
-  const fileName = 'Nguyen-Hoang-An-resume.pdf';
+  const fileName = 'Hoang-Truong-Kieu-Anh-resume.pdf';
   const { t } = useTranslation();
 
   const isDarkTheme = useDarkThemeDetector();
