@@ -16,17 +16,17 @@
   },
   {
     "src": "src/assets/svg/Forms.svg",
-    "alt": "docs",
+    "alt": "forms",
     "href": "https://www.microsoft.com/vi-vn/microsoft-365/microsoft-office"
   },
   {
     "src": "src/assets/svg/Sheets.svg",
-    "alt": "docs",
+    "alt": "sheets",
     "href": "https://www.microsoft.com/vi-vn/microsoft-365/microsoft-office"
   },
   {
     "src": "src/assets/svg/Slides.svg",
-    "alt": "docs",
+    "alt": "slides",
     "href": "https://www.microsoft.com/vi-vn/microsoft-365/microsoft-office"
   }
 ]
