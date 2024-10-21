@@ -15,8 +15,8 @@ interface SkillItemProps {
 
 const SkillItem: FC<SkillItemProps> = ({ src, href = '#', alt = 'image', width = 40, height = 40 }): JSX.Element => {
   const random = 5 + Math.floor(Math.random() * 6);
-  const leadingCase = (src: string) => {
-    switch (src) {
+  const leadingCase = (alt: string) => {
+    switch (alt) {
       case 'docs':
         return docs;
       case 'forms':
@@ -46,7 +46,7 @@ const SkillItem: FC<SkillItemProps> = ({ src, href = '#', alt = 'image', width =
       className='rounded-2xl border-[1px] border-neutral-800 p-4 dark:border-gray-50'
     >
       <a href={href} target='_blank' rel='noreferrer'>
-        <img src={leadingCase(src)} alt={alt} width={width} height={height} />
+        <img src={leadingCase(alt)} alt={alt} width={width} height={height} />
       </a>
     </motion.div>
   );
