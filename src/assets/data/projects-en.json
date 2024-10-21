@@ -1,0 +1,46 @@
+[
+  {
+    "leading": "future",
+    "title": "Future.",
+    "time": "Mar 2023 - Jun 2023",
+    "link": "https://github.com/hoangan-vn/future",
+    "description": "This is a website for selling decorations, where customers can find unique and beautiful items to decorate their homes. On the website, we offer a wide range of decorative accessories such as paintings, decorative lights, and much more.",
+    "technologies": [
+      "Typescript",
+      "ReactJs",
+      "Tailwind CSS",
+      "Redux",
+      "ExpressJs",
+      "MongoDB",
+      "Swagger"
+    ]
+  },
+  {
+    "leading": "greeny",
+    "title": "Greeny",
+    "time": "10/2023 - 12/2023",
+    "link": "https://github.com/hoangan-vn/greeny",
+    "description": "Welcome to Greeny - the paradise of fresh and healthy fruits! At Greeny, we take pride in offering high-quality, clean fruits carefully selected from reputable farms. With our commitment to providing fresh products every day, Greeny ensures abundant nutrition and delightful flavors. Experience nature's freshness with Greeny and build a healthy lifestyle today!",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "jQuery",
+      "Java",
+      "Spring boot",
+      "MySQL"
+    ]
+  },
+  {
+    "leading": "flutter-intern",
+    "title": "Flutter Intern Project",
+    "time": "Dec 2023 - Mar 2024",
+    "link": "https://github.com/hoangan-vn/flutter-intern",
+    "description": "This is a tracking application for pregnant mothers, looking up knowledge about taking care of their children from the time they are pregnant until their children grow up.",
+    "technologies": [
+      "Dart",
+      "Flutter",
+      "Firebase"
+    ]
+  }
+]
