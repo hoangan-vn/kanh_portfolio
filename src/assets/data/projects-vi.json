@@ -1,10 +1,10 @@
 [
   {
-    "leading": "irsac",
-    "title": "IRSAC",
-    "time": "03/2023 - 06/2023",
-    "link": "https://www.facebook.com/VienNghiencuuPhattrienBaotonVanhoaNghethuatDNA?locale=vi_VN",
-    "description": "Đây là một fanpage chuyên về Văn hóa - Nghệ thuật Đông Nam Á.",
+    "leading": "bav_talent",
+    "title": "BAV Talent",
+    "time": "01/2025 - 07/2025",
+    "link": "https://www.tiktok.com/@bav.talent?_t=ZS-8wLnh6LjoWX&_r=1",
+    "description": "Đây là kênh TikTok quảng bá thương hiệu tuyển dụng của Bamboo Airways.",
     "technologies": [
       "Nội dung",
       "Quay chụp",
@@ -16,7 +16,7 @@
   {
     "leading": "cong_khanh",
     "title": "Bác Sĩ Hồng Công Khanh - Chuyên PTTH Thẩm Mỹ",
-    "time": "10/2023 - 12/2023",
+    "time": "03/2024 - 12/2024",
     "link": "https://www.facebook.com/bacsihongcongkhanhchuyenkhoaphauthuatthammy",
     "description": "Xây dựng thương hiệu cá nhân cho bác sĩ thẩm mỹ",
     "technologies": [
@@ -32,7 +32,7 @@
   {
     "leading": "phong_son",
     "title": "Bác Sĩ Phong Sơn",
-    "time": "12/2023 - 03/2024",
+    "time": "03/2024 - 12/2024",
     "link": "https://www.facebook.com/bacsiphongson",
     "description": "Xây dựng thương hiệu cá nhân cho bác sĩ thẩm mỹ",
     "technologies": [
@@ -43,6 +43,20 @@
       "Instagram",
       "TikTok",
       "Chăm sóc khách hàng"
+    ]
+  },
+  {
+    "leading": "irsac",
+    "title": "IRSAC",
+    "time": "03/2023 - 06/2023",
+    "link": "https://www.facebook.com/VienNghiencuuPhattrienBaotonVanhoaNghethuatDNA?locale=vi_VN",
+    "description": "Đây là một fanpage chuyên về Văn hóa - Nghệ thuật Đông Nam Á.",
+    "technologies": [
+      "Nội dung",
+      "Quay chụp",
+      "Thiết kế hình ảnh",
+      "Dựng clip",
+      "Tổ chức sự kiện"
     ]
   }
 ]

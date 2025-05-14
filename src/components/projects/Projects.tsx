@@ -9,6 +9,7 @@ import { RootState } from '~/app/store';
 import irsac from '~/assets/images/image_0.png';
 import cong_khanh from '~/assets/images/image_1.png';
 import phong_son from '~/assets/images/image_2.png';
+import bamboo from '~/assets/images/image.png';
 
 import { ProjectItemWidget } from './widget';
 
@@ -25,7 +26,7 @@ const Projects: FC = (): JSX.Element => {
       case 'phong_son':
         return phong_son;
       default:
-        return phong_son;
+        return bamboo;
     }
   };
 

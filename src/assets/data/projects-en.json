@@ -1,14 +1,14 @@
 [
   {
-    "leading": "irsac",
-    "title": "IRSAC",
-    "time": "03/2023 - 06/2023",
-    "link": "https://www.facebook.com/VienNghiencuuPhattrienBaotonVanhoaNghethuatDNA?locale=vi_VN",
-    "description": "This is a fanpage dedicated to Southeast Asian Culture and Arts.",
+    "leading": "bav_talent",
+    "title": "BAV Talent",
+    "time": "01/2025 - 07/2025",
+    "link": "https://www.tiktok.com/@bav.talent?_t=ZS-8wLnh6LjoWX&_r=1",
+    "description": "This is the TikTok channel for promoting Bamboo Airways' employer branding.",
     "technologies": [
       "Content Creation",
-      "Filming & Photography",
-      "Graphic Design",
+      "Filming and Photography",
+      "Image Design",
       "Video Editing",
       "Event Organization"
     ]
@@ -16,33 +16,47 @@
   {
     "leading": "cong_khanh",
     "title": "Dr. Hong Cong Khanh - Aesthetic Surgery Specialist",
-    "time": "10/2023 - 12/2023",
+    "time": "03/2024 - 12/2024",
     "link": "https://www.facebook.com/bacsihongcongkhanhchuyenkhoaphauthuatthammy",
-    "description": "Personal brand building for an aesthetic surgery doctor",
+    "description": "Built personal branding for an aesthetic doctor.",
     "technologies": [
       "Content Creation",
-      "Filming & Photography",
-      "Image and Video Conceptualization",
+      "Filming and Photography",
+      "Concept Development for Images and Videos",
       "Facebook",
       "Instagram",
       "TikTok",
-      "Customer Service"
+      "Customer Support"
     ]
   },
   {
     "leading": "phong_son",
     "title": "Dr. Phong Son",
-    "time": "12/2023 - 03/2024",
+    "time": "03/2024 - 12/2024",
     "link": "https://www.facebook.com/bacsiphongson",
-    "description": "Personal brand building for an aesthetic surgery doctor",
+    "description": "Built personal branding for an aesthetic doctor.",
     "technologies": [
       "Content Creation",
-      "Filming & Photography",
-      "Image and Video Conceptualization",
+      "Filming and Photography",
+      "Concept Development for Images and Videos",
       "Facebook",
       "Instagram",
       "TikTok",
-      "Customer Service"
+      "Customer Support"
+    ]
+  },
+  {
+    "leading": "irsac",
+    "title": "IRSAC",
+    "time": "03/2023 - 06/2023",
+    "link": "https://www.facebook.com/VienNghiencuuPhattrienBaotonVanhoaNghethuatDNA?locale=vi_VN",
+    "description": "This is a fanpage dedicated to Southeast Asian culture and arts.",
+    "technologies": [
+      "Content Creation",
+      "Filming and Photography",
+      "Image Design",
+      "Video Editing",
+      "Event Organization"
     ]
   }
 ]
