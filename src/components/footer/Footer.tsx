@@ -24,20 +24,23 @@ const Footer: FC = (): JSX.Element => {
   };
 
   return (
-    <footer className='w-screen flex flex-col min-w-[800px] px-16 mt-5'>
-      <div className='flex justify-between items-start py-10 gap-24'>
-        <div className='flex flex-col justify-center items-center gap-5'>
-          <button className='cursor-pointer w-[170px]' onClick={() => navigate(APP_PATH.home)}>
-            <img src={logo} alt='Logo' />
+    <footer className='w-screen flex flex-col px-16 mt-5 md:px-8 sm:px-4 min-w-0'>
+      <div className='flex justify-between items-start py-10 gap-24 lg:gap-12 md:flex-col md:gap-10 md:items-center'>
+        <div className='flex flex-col justify-center items-center gap-5 md:text-center'>
+          <button
+            className='cursor-pointer w-[170px] md:w-[140px] sm:w-[120px]'
+            onClick={() => navigate(APP_PATH.home)}
+          >
+            <img src={logo} alt='Logo' className='w-full' />
           </button>
-          <span className='text-justify dark:text-white'>{t('footer-info')}</span>
+          <span className='text-justify dark:text-white md:text-center'>{t('footer-info')}</span>
         </div>
 
-        <div className='flex flex-col gap-5'>
+        <div className='flex flex-col gap-5 md:items-center'>
           <h5 className='text-xl leading-[35px] font-semibold dark:text-white'>
             {`${t('footer-terms-condition')} & ${t('footer-privacy-policy')}`}
           </h5>
-          <ul className='space-y-5 text-heading-9 whitespace-nowrap dark:text-white'>
+          <ul className='space-y-5 text-heading-9 whitespace-nowrap dark:text-white md:text-center'>
             <li className='cursor-pointer hover:underline' onClick={() => navigate(APP_PATH['terms-condition'])}>
               {t('footer-terms-condition')}
             </li>
@@ -47,9 +50,9 @@ const Footer: FC = (): JSX.Element => {
           </ul>
         </div>
 
-        <div className='flex flex-col gap-0 shrink-0'>
+        <div className='flex flex-col gap-0 shrink-0 md:items-center'>
           <h5 className='text-xl leading-[35px] font-semibold dark:text-white'>{t('footer-follow')}</h5>
-          <div className='relative w-[400px] h-[300px]'>
+          <div className='relative w-[400px] h-[300px] lg:w-[300px] lg:h-[250px] md:w-[90%] sm:h-[200px]'>
             <Suspense
               fallback={
                 <div className='absolute bg-opacity-80 z-10 flex justify-center items-center w-full h-full'>
@@ -62,7 +65,7 @@ const Footer: FC = (): JSX.Element => {
           </div>
         </div>
       </div>
-      <div className='flex justify-center items-center p-10 border-t-2 border-gray-400 dark:text-white'>
+      <div className='flex justify-center items-center p-10 border-t-2 border-gray-400 dark:text-white md:p-6 md:text-center sm:p-4 sm:text-sm'>
         {t('footer-copyright')}
       </div>
     </footer>
